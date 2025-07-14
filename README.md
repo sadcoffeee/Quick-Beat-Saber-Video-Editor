@@ -1,6 +1,6 @@
 ---
 
-# 🎬 BS Quick Video Editor
+# 🎬 Quick Beat Saber Video Editor
 A lightweight video editor tailored for Beat Saber gameplay editing. Trim videos, apply transitions, boost saturation, and overlay BeatSaver metadata.
 
 ---
