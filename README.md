@@ -59,7 +59,7 @@ python process_video.py 00:00:10 00:01:30 25f input.mp4 output.mp4
 
 Download the latest standalone `.exe`:
 
-👉 [Download BS Quick Video Editor (Google Drive)](https://drive.google.com/file/d/1a46UKiZvetiDfHHSWIG6NFpL0upE61P1/view?usp=sharing)
+👉 [Download BS Quick Video Editor (Google Drive)](https://drive.google.com/file/d/1AGSYB_mrv-r2hQGeu459t1nMWWECA_ut/view?usp=sharing)
 
 - Just double-click the `.exe`
 - Select your video file
