@@ -82,7 +82,7 @@ Download the latest standalone `.exe`:
 ---
 
 ## Suggestions
-The tool is currently just made to suit my needs --- I'm very open to suggestions for improvements or additions :D
+The tool is currently just made to suit my needs — I'm very open to suggestions for improvements or additions :D
 
 The fastest way to reach me is on Discord @pan_vr
 
