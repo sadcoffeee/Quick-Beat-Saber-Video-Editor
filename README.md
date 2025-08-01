@@ -3,6 +3,8 @@
 # 🎬 Quick Beat Saber Video Editor
 A lightweight video editor tailored for Beat Saber gameplay editing. Trim videos, apply transitions, boost saturation, and overlay BeatSaver metadata.
 
+https://github.com/user-attachments/assets/dec3492a-e5e1-4555-a033-7a73ccf7668e
+
 ---
 
 ## What is this?
@@ -22,7 +24,7 @@ This tool helps you quickly edit raw video clips of Beat Saber gameplay or map p
 
 ## How to use it?
 
-### Option 1: For Python users
+### Option 1: For users familiar with running Python
 This is the lightweight option if you just want the functional scripts.
 
 > Requirements: Python 3.10+, `ffmpeg`, and `ffprobe` on your system PATH
