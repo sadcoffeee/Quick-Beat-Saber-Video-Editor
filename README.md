@@ -13,8 +13,8 @@ This tool helps you quickly edit raw video clips of Beat Saber gameplay or map p
 
 - Trims a video between two timestamps
 - Applies fade-in and fade-out effects
-- Boosts video saturation for good looking videos despite YouTube's evil compression
-- Generates a map overlay with:
+- (Optionally) Boosts video saturation for good looking videos despite YouTube's evil compression
+- (Optionally) Generates a map overlay with:
   - Song title
   - Mapper name
   - Cover image
@@ -49,12 +49,6 @@ pip install -r requirements.txt
 python gui.py
 ```
 
-Or run directly from command line:
-
-```bash
-python process_video.py 00:00:10 00:01:30 25f input.mp4 output.mp4
-```
-
 ---
 
 ### Option 2: For Windows users
@@ -65,7 +59,11 @@ Download the latest standalone `.exe`:
 
 - Just double-click the `.exe`
 - Select your video file
-- Enter the BeatSaver ID and trimming timestamps
+- Enter the desired video parameters
+  - Trimming timestamps
+  - File save location
+  - (Optional) Map BeatSaver ID
+  - (Optional) Saturation adjustment
 - Wait for processing (this step might take several minutes depending on your video length and computer specs)
 - Processed video will be saved to your selected folder
 
@@ -75,7 +73,7 @@ Download the latest standalone `.exe`:
 
 ## What's included?
 
-- `gui.py` – simple interface to enter processing variables 
+- `gui.py` – simple interface to enter video parameters
 - `process_video.py` – core processing logic
 - `overlay_creator.py` – generates overlay from BeatSaver data
 - `environment.yml` – Conda environment
